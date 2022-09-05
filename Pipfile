@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+scipy = "*"
+pandas = "*"
+matplotlib = "*"
+plotly = "*"
+pyttsx3 = "*"
+yfinance = "*"
+args2fields = {editable = true, git = "https://github.com/hankadler/python-args2fields"}
+header = {editable = true, git = "https://github.com/hankadler/python-header"}
+pytest = "*"
+
+[dev-packages]
+header = {editable = true, git = "https://github.com/hankadler/python-header"}
+logger = {editable = true, git = "https://github.com/hankadler/python-logger"}
+
+[requires]
+python_version = "3.9"

@@ -11,6 +11,8 @@ Library for analyzing stocks
 
 ## Packages
 
+![stocks-daemon](docs/stocks-daemon.png)
+
 ### collector
 
 Actively observes stocks and sends alerts when a condition is met.
@@ -62,6 +64,10 @@ pipenv install
 
 > This project was designed for personal use and not for mass distribution,
 > hence the lack of docs and examples. I'm keeping it here as reference.
+
+![data-structures](docs/data-structures.png)
+![flowchart](docs/flowchart.png)
+![plots-example](docs/plots-example.png)
 
 ## License
 

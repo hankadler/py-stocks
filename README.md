@@ -52,7 +52,7 @@ Imports and exports collected data.
 ## Setup
 
 ```bash
-git clone https://github.com/hankadler/python-stocks stocks
+git clone https://github.com/hankadler/py-stocks stocks
 cd stocks
 mkdir .venv
 pipenv --python 3.9
